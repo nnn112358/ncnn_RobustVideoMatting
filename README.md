@@ -3,3 +3,7 @@
 
 https://qiita.com/nnn112358/public/36fc0a2d0bb862164708
 
+# Reference to
+https://github.com/FeiGeChuanShu/ncnn_Android_RobustVideoMatting
+https://github.com/Baiyuetribe/ncnn-models/
+https://github.com/PeterL1n/RobustVideoMatting
