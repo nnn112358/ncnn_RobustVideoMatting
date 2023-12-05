@@ -1,8 +1,6 @@
-// opencv2
 #include <opencv2/core/core.hpp>
 #include <opencv2/highgui/highgui.hpp>
 #include <opencv2/imgproc/imgproc.hpp>
-// ncnn
 #include "net.h"
 #include <iostream>
 #include <vector>
